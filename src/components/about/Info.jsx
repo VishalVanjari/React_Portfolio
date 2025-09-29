@@ -6,7 +6,7 @@ export const Info = () => {
         <div className='about__box'>
         <i class='bx bx-award about__icon' ></i>
             <h3 className='about_title'>Experience</h3>
-            <span className='about_subtitle'>Fresher</span>
+            <span className='about_subtitle'>2 Year</span>
         </div>
 
         <div className='about__box'>

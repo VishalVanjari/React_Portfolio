@@ -19,7 +19,7 @@ export const Data = [
     {
         id:3,
         image:Image3,
-        title:"Vish Rathod",
+        title:"Vishal Vanjari",
         description:"A really good job ,all asspects of projects wew followed step by step and with good results.",
     }
 

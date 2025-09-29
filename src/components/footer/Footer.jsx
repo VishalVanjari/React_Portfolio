@@ -14,11 +14,11 @@ export const Footer = () => {
                 </li>
 
                 <li>
-                    <a href='#portfolio' className='footer__link'>Projects</a>
+                    <a href='#services' className='footer__link'>Projects</a>
                 </li>
 
                 <li>
-                    <a href='#testimonial' className='footer__link'>Testimonials</a>
+                    <a href='#contact' className='footer__link'>Contact</a>
                 </li>
             </ul>
 
@@ -41,7 +41,7 @@ export const Footer = () => {
 
             </div>
 
-            <span className='footer__copy'>&#169; Vish Rathod . All rights reserved</span>
+            <span className='footer__copy'>&#169; Vishal Vanjari . All rights reserved</span>
         </div>
     </footer>
   )

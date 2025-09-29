@@ -23,7 +23,7 @@ function App() {
       <Skills/>
       <Services/>
       <Qualification/>
-      <Testimonial/>
+      {/* <Testimonial/> */}
       <Contact/>
     </main>
     

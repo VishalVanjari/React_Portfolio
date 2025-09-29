@@ -29,10 +29,10 @@ export const Qualification = () => {
                     <div className={toggleState === 1 ? "qualification__content qualification__content-active" : "qualification__content"}>
                         <div className='qualification__data'>
                             <div>
-                                <h3 className='qualification__title'>B.Tech</h3>
+                                <h3 className='qualification__title'>B.Tech (CS)</h3>
                                 <span className='qualification__subtitle'>RCPIT</span>
                                 <div className='qualification__calendar'>
-                                    <i className='uil uil-calendar-alt'></i> 2021 - Present
+                                    <i className='uil uil-calendar-alt'></i> 2020 - 2024
                                 </div>
                             </div>
 
@@ -98,10 +98,10 @@ export const Qualification = () => {
                     <div className={toggleState === 2 ? "qualification__content qualification__content-active" : "qualification__content"}>
                         <div className='qualification__data'>
                             <div>
-                                <h3 className='qualification__title'>Mern Development</h3>
-                                <span className='qualification__subtitle'>RCPIT</span>
+                                <h3 className='qualification__title'>Software Engineer</h3>
+                                <span className='qualification__subtitle'>Unico Connect Pvt Ltd</span>
                                 <div className='qualification__calendar'>
-                                    <i className='uil uil-calendar-alt'></i> 2023 - Present
+                                    <i className='uil uil-calendar-alt'></i> Sep 2024 - Present
                                 </div>
                             </div>
 
@@ -119,10 +119,10 @@ export const Qualification = () => {
                                 <span className='qualification__line'></span>
                             </div>
                             <div>
-                                <h3 className='qualification__title'>Python Development</h3>
-                                <span className='qualification__subtitle'>RCPIT</span>
+                                <h3 className='qualification__title'>Software Developer</h3>
+                                <span className='qualification__subtitle'>BridgeLabz Solutions Pvt Ltd</span>
                                 <div className='qualification__calendar'>
-                                    <i className='uil uil-calendar-alt'></i> 2022 - 23
+                                    <i className='uil uil-calendar-alt'></i> June 2024 - Aug 2024
                                 </div>
                             </div>
 
@@ -131,8 +131,8 @@ export const Qualification = () => {
 
                         <div className='qualification__data'>
                             <div>
-                                <h3 className='qualification__title'>Java Development</h3>
-                                <span className='qualification__subtitle'>RCPIT</span>
+                                <h3 className='qualification__title'>MERN Developer</h3>
+                                <span className='qualification__subtitle'>R3SYS (Internship)</span>
                                 <div className='qualification__calendar'>
                                     <i className='uil uil-calendar-alt'></i> 2021 - 22
                                 </div>

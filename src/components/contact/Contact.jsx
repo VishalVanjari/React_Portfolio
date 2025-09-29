@@ -9,7 +9,7 @@ export const Contact = () => {
   const sendEmail = (e) => {
     e.preventDefault();
 
-    emailjs.sendForm('service_s2kgrm3', 'template_gj8sprp', form.current, 'C4cQdQdYVBiGMWKI9')
+    emailjs.sendForm('service_onav7z7', 'template_yepo9oc', form.current, '3FQdpzizj3KTIs5aX')
       e.target.reset()
   };
 
@@ -30,9 +30,9 @@ export const Contact = () => {
                         <i className='bx bx-mail-send contact__card-icon'></i>
 
                         <h3 className='contact__card-title'>Email</h3>
-                        <span className='contact__card-data'>vishalrathod210302@gmail.com</span>
+                        <span className='contact__card-data'>officialvishalvanjari@gmail.com</span>
 
-                        <a href='mailto:vishalrathod210302@gmail.com.com' className='contact__button'>Write me {" "}
+                        <a href='mailto:officialvishalvanjari@gmail.com' className='contact__button'>Write me {" "}
                         <i className='bx bx-right-arrow-alt contact__button-icon'></i></a>
                     </div>
 

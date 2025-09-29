@@ -55,9 +55,8 @@ export const Data = () => {
         </svg>
       </h1>
 
-      <h3 className='home__subtitle'>Web Devleoper</h3>
-      <p className='home__description'>I'm Develop web Application and
-        I'm very passionate and dedicated to my work.</p>
+      <h3 className='home__subtitle'>Software Engineer</h3>
+      <p className='home__description'>I'm passionate software developer committed to continuous learning and impactful work.</p>
 
       <a href="#contact" className="button button--flex">
         Say Hello
