@@ -258,14 +258,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📬 Contact
 
 **Vishal Vanjari**
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [linkedin.com/in/vishal-vanjari](https://linkedin.com/in/vishal-vanjari)
+- **Email**: [officialvishalvanjari@gmail.com](mailto:officialvishalvanjari@gmail.com)
+- **LinkedIn**: [https://www.linkedin.com/in/vishal-vanjari-bb64b8228/](https://www.linkedin.com/in/vishal-vanjari-bb64b8228/)
 - **GitHub**: [github.com/VishalVanjari](https://github.com/VishalVanjari)
-- **Portfolio**: [Your Portfolio URL](https://your-portfolio-url.com)
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
